@@ -1,0 +1,94 @@
+h1{
+ font-size: 100px;
+ font-style: italic;
+ text-align: center;
+ font-weight: 20;
+ border:rgb(4, 46, 138) solid 3px ;
+ border-radius: 30px;
+ background-color: #f8d121;
+    
+}
+body{
+    background-image: url(gif2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 100px;
+}
+
+.text{
+    text-align: center;
+    vertical-align: middle;
+}
+
+table{
+    margin: auto;
+   
+}
+
+
+td{
+
+    border: 1px solid black;
+    height: 6vh;
+    width: 6vw;
+}
+
+.c1{
+    
+    background-color: #fda880;
+    font-weight: 600;
+}
+.c2{
+
+    background-color: #d389c7;
+    font-weight: 600;
+}
+.c3{
+    background-color: #8ac4d6;
+    font-weight: 600;
+}
+.c4{
+
+    background-color: #f8f894;
+    font-weight: 600;
+}
+ .c5{
+
+    background-color: #dd8a1e;
+    font-weight: 600;
+ }
+ .c6{
+     background-color: rgb(164, 247, 164);
+     font-weight: 600;
+ } 
+ .c7{
+     background: #f3e39b;
+     font-weight: 600;
+ }
+ .c8{
+     background-color: #d5ddf3;
+     font-weight: 600;
+ } 
+ .c9{
+     background-color: #fdebfa;
+     font-weight: 600;
+ }
+ .c10{
+     background-color: white;
+     font-weight: 600;
+ }
+ #st1{
+     color: blue;
+     font-weight: 600;
+ }
+ #st2{
+     color: #f3112f;
+     font-size:medium;
+     font-weight: 600;
+
+ }
+ #st3{
+     color: green;
+     font-weight: 600;
+ }
